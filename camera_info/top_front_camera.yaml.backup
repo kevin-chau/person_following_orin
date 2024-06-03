@@ -1,0 +1,20 @@
+image_width: 1920
+image_height: 1080
+camera_name: top_front_camera
+camera_matrix:
+  rows: 3
+  cols: 3
+  data: [698.7720089327581, 0, 948.6984995929716, 0, 694.4581011591363, 616.7070850305417, 0, 0, 1]
+distortion_model: plumb_bob
+distortion_coefficients:
+  rows: 1
+  cols: 5
+  data: [-0.01537233838335354, -0.01014287588454407, 0.0002858743531724768, -0.0007284003454982942, 0]
+rectification_matrix:
+  rows: 3
+  cols: 3
+  data: [1, 0, 0, 0, 1, 0, 0, 0, 1]
+projection_matrix:
+  rows: 3
+  cols: 4
+  data: [637.4007568359375, 0, 938.8160461941588, 0, 0, 683.8585815429688, 619.8708349350127, 0, 0, 0, 1, 0]
