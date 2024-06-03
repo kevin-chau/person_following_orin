@@ -13,3 +13,6 @@
 [submodule "src/ccf_person_identification"]
 	path = src/ccf_person_identification
 	url = https://github.com/kevin-chau/ccf_person_identification
+[submodule "src/image_common"]
+	path = src/image_common
+	url = https://github.com/ros-perception/image_common.git
