@@ -16,3 +16,9 @@
 [submodule "src/image_common"]
 	path = src/image_common
 	url = https://github.com/ros-perception/image_common.git
+[submodule "src/image_transport_plugins"]
+	path = src/image_transport_plugins
+	url = https://github.com/ros-perception/image_transport_plugins.git
+[submodule "src/vision_opencv"]
+	path = src/vision_opencv
+	url = https://github.com/ros-perception/vision_opencv.git
