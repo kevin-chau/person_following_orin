@@ -22,3 +22,6 @@
 [submodule "src/vision_opencv"]
 	path = src/vision_opencv
 	url = https://github.com/ros-perception/vision_opencv.git
+[submodule "src/image_pipeline"]
+	path = src/image_pipeline
+	url = git@github.com:kevin-chau/image_pipeline.git
