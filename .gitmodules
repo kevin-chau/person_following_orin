@@ -1,6 +1,6 @@
 [submodule "src/tf-pose-estimation"]
 	path = src/tf-pose-estimation
-	url = https://github.com/koide3/tf-pose-estimation
+	url = https://github.com/kevin-chau/tf-pose-estimation
 [submodule "src/open_face_recognition"]
 	path = src/open_face_recognition
 	url = https://github.com/koide3/open_face_recognition
